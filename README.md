@@ -11,3 +11,7 @@ Everything is automized for you for the most part. However you need your kaggle.
 
 ## Dataset and Explanation
 Please read my Machine Learning Capstone Proposal.pdf file that is included in this repo. It should contain all the information that you would like to know.
+
+
+## Currently Working On
+At this moment I am just preparing my PyTorch models to be trained using AWS SageMaker.
